@@ -1,10 +1,10 @@
 #include "TM4C123.h"
 
-#define goN					0		//Go - cars coming from north
-#define waitN				1		//Wait - cars coming from north
-#define goW					2		//Go - cars coming from west
-#define waitW				3		//Wait - cars coming from west
-#define goPed				4		//Go - pedestrian crossing
+#define goN			0		//Go - cars coming from north
+#define waitN			1		//Wait - cars coming from north
+#define goW			2		//Go - cars coming from west
+#define waitW			3		//Wait - cars coming from west
+#define goPed			4		//Go - pedestrian crossing
 #define hurryPed		5		//Hurry Up - pedestrian crossing
 #define stopPed			6		//Stop - pedestrian crossing
 
